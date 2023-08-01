@@ -1,0 +1,10 @@
+*.ipynb_checkpoints
+*.txt
+*.ipynb
+angry/
+disgust/
+fear/
+happy/
+out/
+sad/
+suprised/
